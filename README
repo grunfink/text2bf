@@ -1,0 +1,6 @@
+text2bf by grunfink
+public domain
+
+This is a tool that reads text (or any other thing) from its stdin and converts it to a Brainfuck program on stdout. This program, when executed, outputs the original input.
+
+This package also includes minibf, a minimalistic Branfuck interpreter.
